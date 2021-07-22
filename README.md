@@ -18,5 +18,5 @@ This is a simple web project, deployment can be in any web server
 Please fork this repository and then issue Pull Requests
 
 ## Copyright
-2021 Git.Training Fix
+2021 Git.Training Fix All rights reserved
 
