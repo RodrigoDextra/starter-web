@@ -13,5 +13,8 @@ Sample website with plenty of files for demostration
 This is a simple web project, deployment can be in any web server
 
 ## How to Contribute
+Please fork this repository and then issue Pull Requests
 
+## Copyright
 2021 Git.Training Fix
+
