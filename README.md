@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work together
 
-Adding a line for rebasing example, then more changes for myfeature branch
+Updating for emergency fix after stash
 ## Introduction
 
 This exampl is to show different parts of the GIT repository and various commands using a web project
