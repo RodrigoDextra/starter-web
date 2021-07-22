@@ -6,9 +6,11 @@ This repository is for showing how Git and GitHub work together
 This exampl is to show different parts of the GIT repository and various commands using a web project
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demostration
 
 ## Deployment
+
+This is a simple web project, deployment can be in any web server
 
 ## How to Contribute
 
